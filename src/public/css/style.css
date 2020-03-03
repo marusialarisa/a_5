@@ -1,0 +1,12 @@
+*{margin: 0px; padding: 0px;}
+body{margin: 0px;}
+.container{width: 100%;height: 100%;}
+.formulario{margin-left: 430px; position: absolute;background-color: lavender;top:100px;opacity: 0.9;font-family: sans-serif;}
+.imagen1{width: 100%;height: 100%;}
+form{height: 260px;text-align: right;margin-right: 140px;margin-top: 50px;}
+label{margin: 20px;}
+
+h1{margin: 50px;}
+h2{color:crimson;margin-left: 240px;}
+p{margin-left: 40px;}
+
